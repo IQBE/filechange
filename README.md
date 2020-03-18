@@ -1,5 +1,5 @@
 # filechange
-**A simple library to quicly edit files and directories.**
+**A simple library to quickly edit files and directories.**
 
 
 ## Introduction
