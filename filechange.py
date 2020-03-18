@@ -1,5 +1,7 @@
 """
 =====================================
+a simple library to quickly edit files and directories.
+
 by Ilya Quateau
 =====================================
 
